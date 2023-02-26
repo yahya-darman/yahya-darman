@@ -1,4 +1,4 @@
-### Hello there 😌
+### Hello there 👋
 
 You somehow landed on my GitHub, while you are here let me tell you a little bit about myself
 
