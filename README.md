@@ -1,10 +1,10 @@
-### Hello there 👋
+### Hey there! 👋
 
-You somehow landed on my GitHub, while you are here let me tell you a little bit about myself
+Welcome to my GitHub! Here’s a quick snapshot of who I am and what I’m passionate about:
 
-- 😄 I'm certified in Azure Fundamentals and I am looking to get more Microsoft certification soon! 
-- 🌱 I’m currently learning AWS
-- 🔭 I’m currently working on making my own personal website
-- 📫 Connect with me and reach me here: [My LinkedIn](https://www.linkedin.com/in/yahya-darman/)
-- ⚡ Fun fact: I am a tea enthusiast! ☕
+- 🚀 **Data Scientist** with a knack for turning complex data into actionable insights. I specialize in data analysis, predictive modeling, and process optimization.
+- 📊 **Certified** in Microsoft Azure and currently leveling up my skills with AWS. I’m always on the lookout for new technologies to master!
+- 🤝 **Let’s Connect!** I’d love to network and share ideas. Check out my [LinkedIn](https://www.linkedin.com/in/yahya-darman/) and reach out!
+- ☕ **Fun Fact:** I’m a tea enthusiast! There’s nothing like a good cup of tea while diving into data analysis.
 
+Looking forward to connecting and collaborating!
