@@ -1,10 +1,11 @@
-### Hey there! 👋
+# Hi there 👋  
 
-Welcome to my GitHub! Here’s a quick snapshot of who I am and what I’m passionate about:
+I'm Yahya, a passionate **Software Engineer** with experience in platform engineering, data science, predictive modeling, and process optimization. 🚀  
 
-- 🚀 **Data Scientist** with a knack for turning complex data into actionable insights. I specialize in data analysis, predictive modeling, and process optimization.
-- 📊 **Certified** in Microsoft Azure and currently leveling up my skills with AWS. I’m always on the lookout for new technologies to master!
-- 🤝 **Let’s Connect!** I’d love to network and share ideas. Check out my [LinkedIn](https://www.linkedin.com/in/yahya-darman/) and reach out!
-- ☕ **Fun Fact:** I’m a tea enthusiast! There’s nothing like a good cup of tea while diving into data analysis.
+## 🌟 About Me  
+- 🍵 When I’m not coding, you’ll find me brewing a cup of Somali tea, tasting, and discovering new flavors.  
+- 🌐 Explore my [personal website](https://yahya-darman.github.io/) to learn more about me, my projects :)
 
-Looking forward to connecting and collaborating!
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yahya-darman.yahya-darman)  
+
+I’m always eager to collaborate, learn, and innovate—let’s connect!
