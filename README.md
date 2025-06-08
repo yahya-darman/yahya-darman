@@ -1,9 +1,9 @@
 # Hi there 👋  
 
-I'm Yahya, an **Applied Mathematics graduate** with experience in data science, AI, platform engineering, and predictive modeling. 🎯  
+I'm Yahya, an **Applied Mathematics graduate** passionate about leveraging data and intelligent systems to build impactful, AI-driven solutions across a range of domains.
 
 ## 🌟 About Me  
-- 🤖 Interested in artificial intelligence and solving real-world problems with data  
+- 🤖 Interested in artificial intelligence. machine learning and solving real-world problems with data  
 - 📊 Previously worked as a data scientist  
 - 🍵 Enjoy brewing Somali tea in my free time  
 - 💼 Open to work and looking for opportunities in tech  
